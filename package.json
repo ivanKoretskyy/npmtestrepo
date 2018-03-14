@@ -1,0 +1,22 @@
+{
+  "name": "change-timezone-no-change-time",
+  "version": "1.0.0",
+  "description": "change timezone without changing time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanKoretskyy/npmtestrepo.git"
+  },
+  "keywords": [
+    "timezone"
+  ],
+  "author": "ivan koretskyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanKoretskyy/npmtestrepo/issues"
+  },
+  "homepage": "https://github.com/ivanKoretskyy/npmtestrepo#readme"
+}
